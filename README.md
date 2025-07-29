@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tabela Periódica - CMAS</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #004d99;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 30px;
+      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border: 3px solid #004d99;
+      border-radius: 10px;
+    }
+    p {
+      font-size: 18px;
+      max-width: 800px;
+      margin: 20px auto;
+      text-align: justify;
+    }
+    footer {
+      background-color: #004d99;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Colégio Municipal Arani de Souza</h1>
+    <h3>Trabalho de Ciências - 9ºA</h3>
+    <p>Alunos: Eryck e Valdemar</p>
+  </header>
+
+  <div class="container">
+    <h2>Tabela Periódica dos Elementos</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Periodic_table_large_pt-br.png" alt="Tabela Periódica">
+    <p>
+      A tabela periódica é uma ferramenta fundamental na química. Ela organiza os elementos químicos de acordo com suas propriedades e número atômico. Com ela, é possível identificar características como a massa, símbolo e comportamento químico dos elementos. Criada por Dmitri Mendeleev, a tabela evoluiu com o tempo e hoje é essencial para estudantes e cientistas do mundo todo.
+    </p>
+  </div>
+
+  <footer>
+    Colégio Municipal Arani de Souza - 2025
+  </footer>
+
+</body>
+</html>
